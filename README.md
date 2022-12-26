@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+![EuiYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeuiyeob&show_icons=true&theme=radical)
