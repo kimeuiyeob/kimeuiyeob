@@ -1,17 +1,13 @@
 ### 안녕하세요~ 열정적이고 성실한 개발자 김의엽입니다. 👋
 <br>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... -->
 
-<br>
--                                 😄 My Skill Stack 😄
+### 😄 My Skill Stack 😄
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,6 +31,6 @@ Here are some ideas to get you started:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+<br>
 
 ![EuiYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeuiyeob&show_icons=true&theme=radical)
