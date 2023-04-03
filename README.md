@@ -1,4 +1,3 @@
-### 안녕하세요~~👋
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=150&section=header&text=Welcome~~&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <br>
 <!-- - 🔭 I’m currently working on ...
@@ -7,6 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
+### 안녕하세요~~ 👋
 
 ### 😄 My Skill Stack 😄
 <br>
