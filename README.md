@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=150&section=header&text=Welcome~~&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <br>
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -31,7 +32,12 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<br>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeuiyeob&layout=compact">
+</div>
 <br>
 
 ![EuiYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeuiyeob&show_icons=true&theme=radical)
+
