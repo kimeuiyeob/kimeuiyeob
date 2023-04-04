@@ -34,10 +34,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
-<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeuiyeob&layout=compact">
 </div>
-<br>
+
 
 ![EuiYeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimeuiyeob&show_icons=true&theme=radical)
 
