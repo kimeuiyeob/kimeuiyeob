@@ -1,6 +1,6 @@
 <div align=center>	
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=130&section=header&text=Welcome~~~&color=23323330&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=130&section=header&text=Welcome~~~👋&color=0d1117&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 <br>
 
 </div>
@@ -13,7 +13,7 @@
 - 📫 How to reach me: ... -->
 
 <br>
-<h3 align="center" > 안녕하세요~~ 김의엽의 깃허브입니다. 👋 </h3>
+<h3 align="center" > 안녕하세요~~ 김의엽의 깃허브입니다. </h3>
 <br>
 <h3 align="center" >😄 My Skill Stack 😄</h3>
 
