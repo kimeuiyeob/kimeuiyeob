@@ -32,8 +32,6 @@
 <br>
 ![SourceTree](https://img.shields.io/badge/SourceTree-%230167ff?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
 <br>
 </div>
 
