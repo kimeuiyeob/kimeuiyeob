@@ -34,10 +34,13 @@
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
 <br>
 <br>
-
+📫Velog : https://velog.io/@rladmlduq47/posts
+<br>
 </div>
 
 <div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimeuiyeob)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeuiyeob&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kimeuiyeob&show_icons=true">
 </div>
+
+
