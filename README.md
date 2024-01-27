@@ -35,6 +35,8 @@
 <br>
 <br>
 📫Velog : https://velog.io/@rladmlduq47/posts
+📱Handphone : 010 - 5040 - 8875
+✉️Email : rladmlduq47@gmail.com
 <br>
 </div>
 
