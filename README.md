@@ -36,9 +36,9 @@
 <br>
 📫Velog : https://velog.io/@rladmlduq47/posts
 <br>
-📱Handphone : 010 - 5040 - 8875
-<br>
 ✉️Email : rladmlduq47@gmail.com
+<br>
+📱Handphone : 010 - 5040 - 8875
 <br>
 </div>
 
