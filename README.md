@@ -10,21 +10,11 @@
 </a>
 
 <br>
-
 </div>
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
 
 <h3 align="center" >😄 My Skill Stack 😄</h3>
 
 <div align=center>	
-
-<a href="#" style="text-decoration: none; color: inherit;">
   
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,8 +30,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-%230167ff?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-
-</a>
 
 <br>
 <br>
