@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-%230769AD.svg?style=for-the-badge&logo=DOCKER&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%233233.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
+![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%2300f.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
 
 <br>
 <br>
