@@ -17,20 +17,22 @@
 <div align=center>	
   
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=Git&logoColor=white)
-![LINUX](https://img.shields.io/badge/LINUX-%23ED8B00.svg?style=for-the-badge&logo=LINUX&logoColor=white)
-![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%233233.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-%230769AD.svg?style=for-the-badge&logo=DOCKER&logoColor=white)
-<br>
-![POSTMAN](https://img.shields.io/badge/POSTMAN-%23E34F26.svg?style=for-the-badge&logo=POSTMAN&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=Git&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-%23E34F26.svg?style=for-the-badge&logo=POSTMAN&logoColor=white)
+<br>
+![LINUX](https://img.shields.io/badge/LINUX-%23ED8B00.svg?style=for-the-badge&logo=LINUX&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-%230769AD.svg?style=for-the-badge&logo=DOCKER&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%233233.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
 
 <br>
-<br>
-📫Velog : https://velog.io/@rladmlduq47/posts
-<br>
-📫Notion : https://www.notion.so/aa2567be74a349f2bb6e44a5532780af
+#<br>
+#📫Velog : https://velog.io/@rladmlduq47/posts
+#<br>
+#📫Notion : https://www.notion.so/aa2567be74a349f2bb6e44a5532780af
 <br>
 ✉️Email : rladmlduq47@gmail.com
 <br>
