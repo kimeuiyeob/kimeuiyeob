@@ -29,10 +29,10 @@
 ![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%233233.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
 
 <br>
-#<br>
-#📫Velog : https://velog.io/@rladmlduq47/posts
-#<br>
-#📫Notion : https://www.notion.so/aa2567be74a349f2bb6e44a5532780af
+`<br>`
+`📫Velog : https://velog.io/@rladmlduq47/posts`
+`<br>`
+`📫Notion : https://www.notion.so/aa2567be74a349f2bb6e44a5532780af`
 <br>
 ✉️Email : rladmlduq47@gmail.com
 <br>
