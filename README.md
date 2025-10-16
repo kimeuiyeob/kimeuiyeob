@@ -19,14 +19,17 @@
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=Git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23E34F26.svg?style=for-the-badge&logo=POSTMAN&logoColor=white)
 <br>
 ![LINUX](https://img.shields.io/badge/LINUX-%23ED8B00.svg?style=for-the-badge&logo=LINUX&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-%230769AD.svg?style=for-the-badge&logo=DOCKER&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AMAZONAWS](https://img.shields.io/badge/AMAZONAWS-%2300f.svg?style=for-the-badge&logo=AMAZONAWS&logoColor=white)
+<br>
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 <br>
 <br>
