@@ -12,7 +12,7 @@
 <br>
 </div>
 
-<h3 align="center" >😄 My Skill Stack 😄</h3>
+<!--  <h3 align="center" >😄 My Skill Stack 😄</h3>
 
 <div align=center>	
   
@@ -31,7 +31,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br>
+<br> -->
+
 <br>
 ✉️Email : rladmlduq47@gmail.com
 <br>
