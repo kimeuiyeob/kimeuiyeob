@@ -35,9 +35,11 @@
 
 <br>
 ✉️Email : rladmlduq47@gmail.com
-<br>
+
+<!-- <br>
 📱Handphone : 010 - 5040 - 8875
-<br>
+<br> -->
+
 <br>
 <br>
 
